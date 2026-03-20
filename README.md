@@ -3,7 +3,7 @@
 <img src="images/m1.png" width="500"> 
 
 # Installation:
-     1. git clone https://github.com/HackerB777/Cybert.git
+     1. git clone https://github.com/HackerB777/Cybert--Payload--Genatator
      2. chmod +x code.sh
 
 # Usage:
