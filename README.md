@@ -1,4 +1,8 @@
-# HackerB777
+# ⚙️ Automation Payloads Generator Tool for Linux
+
+A powerful automation tool designed to generate payloads for multiple operating systems. 
+This tool simplifies payload creation and supports various platforms with minimal manual effort.
+
 
 <img src="images/m1.png" width="500"> 
 
